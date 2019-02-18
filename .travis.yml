@@ -1,6 +1,7 @@
 language: ruby
 rvm:
-- 2.0.0
-- 1.9.3
+- "2.0.0"
+- rubinius-2
+- 1.9.3-p194
 - jruby-19mode
 - rbx-2
