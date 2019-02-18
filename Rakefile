@@ -4,7 +4,7 @@ class MyTest
 	include Test::Unit::Assertions
 
 	def test!
-		assert(false, "expected false to be .. not false?")
+		assert(true, "sanity check")
 	end
 end
 
